@@ -6,4 +6,4 @@ flask --debug run
   
 <h1 style="font-size: 16px;"># 起動</h1>  
 flask run   
-URLへアクセス（リンクをCtrl + Click )＞http://127.0.0.1:5000/signup  
+<p>URLへアクセス（リンクをCtrl + Click )＞http://127.0.0.1:5000/signup</P>
