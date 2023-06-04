@@ -1,5 +1,5 @@
 # flask_web_app
-flask traning
+pip install flask
 pip install Flask-Login
 pip install flask_bootstrap
 pip install flask_sqlalchemy
