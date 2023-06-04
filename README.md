@@ -11,6 +11,3 @@ flask --debug run
 flask run
 <<<<<<< HEAD
 URLへアクセス（リンクをCtrl + Click )＞http://127.0.0.1:5000/signup
-=======
-ＵＲＬへアクセス（リンクをCtrl + Click )＞http://127.0.0.1:5000/signup
->>>>>>> 957bfdfbddc55591a2fc915109297c6ad851260e
