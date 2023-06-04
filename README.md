@@ -1,4 +1,4 @@
-# flask_web_api
+# flask_web_app
 flask traning
 pip install Flask-Login
 pip install flask_bootstrap
@@ -10,4 +10,3 @@ flask --debug run
 ## 起動
 flask run
 ＵＲＬへアクセス（リンクをCtrl + Click )＞http://127.0.0.1:5000/signup
-
