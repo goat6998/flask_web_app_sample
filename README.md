@@ -1,9 +1,9 @@
-# install  
+<h1 style="font-size: 24px;"># install</h1>  
 pip install flask Flask-Login flask_bootstrap flask_sqlalchemy  
   
-# 開発  
+<h1 style="font-size: 24px;"># 開発</h1>  
 flask --debug run  
   
-# 起動  
+<h1 style="font-size: 24px;"># 起動</h1>  
 flask run  
 URLへアクセス（リンクをCtrl + Click )＞http://127.0.0.1:5000/signup  
